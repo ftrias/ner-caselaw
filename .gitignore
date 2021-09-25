@@ -3,6 +3,7 @@ cache
 data
 resources
 images
+tables
 .ipynb_checkpoints
 *.png
 *.pdf
